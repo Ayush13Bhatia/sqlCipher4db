@@ -1,0 +1,4 @@
+#Thu May 12 15:19:31 IST 2022
+base.0=/Users/ayush/Desktop/q/db/db_sql/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
